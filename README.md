@@ -112,8 +112,8 @@ deliveries[match_id]
 6. Publish to Power BI Service
 
 ##  Dashboard Preview
+<img width="1137" height="652" alt="image" src="https://github.com/user-attachments/assets/fbcfe5a6-731b-418d-bd7b-bb9700a49675" />
 
-Add screenshots of your Power BI dashboard here.
 
 /dashboard-images
     overview.png
